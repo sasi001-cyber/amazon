@@ -1,0 +1,489 @@
+color-#FEBD69
+BTN-COLOR=#FFC42C
+
+
+
+FOOTER-COLOR:
+  #232F3E;
+  #37475A
+  #131A22
+
+
+FONT USED
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Rubik+Mono+One&display=swap');
+ font-family: 'Lato', sans-serif;
+
+FONT-ICON:
+ globe-  <i class="fas fa-globe"></i>
+ search - <i class="fas fa-search"></i>
+
+<select >
+    <op
+    <option value="hindi"><input type="radio">हिन्दी - HI</option>
+    <option value="saab"><input type="radio">தமிழ் - TA</option>
+    <option value="mercedes"><input type="radio">తెలుగు - TE</option>
+    <option value="audi"><input type="radio">ಕನ್ನಡ - KN</option>
+    <option value="audi"><input type="radio">മലയാളം - ML</option>
+    <option value="audi"><input type="radio">বাংলা - BN</option>
+    <option value="audi"><input type="radio">मराठी - MR</option>
+  </select>
+
+
+
+
+ 
+        <div class="card-4">
+            <h2>Mega Fashion Days | Value Packs under ₹599</h2>
+           <div class="collective-images">
+               <img src="shirts.jpg" alt=""><p><a href="#">Sea all offers</a></p>
+              
+           </div>
+         </div>
+        <div class="card-4">
+            <h2>Up to 45% off | Shop by Pet</h2>
+           <div class="collective-images">
+               <a href="#"><img src="dog.jpg" alt=""><p>Dog supplies</p></a>
+               <a href="#"><img src="pare.jpg" alt=""><p>Birds & small animals</p></a>
+               <a href="#"><img src="cat.jpg" alt=""><p>Cat supplies</p></a>
+               <a href="#"><img src="aqua.jpg" alt=""><p>Aquarium accessories</p></a>
+             <p><a href="#">See all deals</a></p> 
+           </div>
+         </div>
+        
+        
+        <div class="card-4">
+            <h2>Up to 60% off | Dress by colour, from local shops</h2>
+           <div class="collective-images">
+               <a href="#"><img src="red-dress.jpg" alt=""><p>Raunchy red</p></a>
+               <a href="#"><img src="eapeach-dress.jpg" alt=""><p> Palpable peach</p></a>
+               <a href="#"><img src="QuadCard.jpg" alt=""><p>Bold black</p></a>
+               <a href="#"><img src="val.jpg" alt=""><p>Visit the valentine's day store</p></a>
+             <p><a href="#">Explore more from local shops</a></p> 
+           </div>
+         </div>
+
+        <div class="card-4">
+            <h2>Gifts you can always rely on | From local shops</h2>
+           <div class="collective-images">
+               <a href="#"><img src="red-dress.jpg" alt=""><p>Chocolate love | Up to 40% off</p></a>
+               <a href="#"><img src="eapeach-dress.jpg" alt=""><p> Personalized gifts | Up to 50% off</p></a>
+               <a href="#"><img src="QuadCard.jpg" alt=""><p>Live plants & planters | Up to 30% off</p></a>
+               <a href="#"><img src="val.jpg" alt=""><p>headphones | Up to 40% off</p></a>
+             <p><a href="#">Explore more from local shops</a></p> 
+           </div>
+         </div>
+
+         <div class="carosel">
+            <button class=" btn prevbtn">pre</button>
+            <div class="carosel__track-container ">
+                <ul class="carosel__track" type="none">
+                    <li class="carosel__slide curent-slide">
+                         <!-- <img class="carosel__image" src="../Amazon/images/31lGv22nWKL._AC_SY200_.jpg"  alt="">                    -->
+                         <!-- <img class="carosel__image" src="../Beach/20211230_100329.jpg"  alt="">                    -->
+                    </li>
+                    <li class="carosel__slide">
+                        <!-- <img class="carosel__image" src="../Amazon/images/372x232_4_Low._SY116_CB670263840_.jpg" alt="">
+                         -->
+                        
+                            <!-- <img class="carosel__image" src="../Beach/20211230_100340.jpg" alt=""> -->
+                      
+                    </li>
+                    <li class="carosel__slide">
+                        <!-- <img class="carosel__image" src="../Beach/20211230_110331.jpg" alt=""> -->
+                        <!-- <img class="carosel__image" src="../Amazon/images/41TaRNz0vkL._AC_SY200_.jpg" alt=""> -->
+                    </li>
+                </ul>
+            </div>
+            <button class=" btn nextbtn">next</button>
+    
+            <div class="carosel-nav-container">
+                <button class="nav-links active"></button>
+                <button class="nav-links"></button>
+                <button class="nav-links"></button>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="carosel">
+        <button class=" btn prevbtn">pre</button>
+        <div class="carosel__track-container ">
+            <ul class="carosel__track" type="none">
+                <li class="carosel__slide curent-slide">
+                     <!-- <img class="carosel__image" src="../Amazon/images/31lGv22nWKL._AC_SY200_.jpg"  alt="">                    -->
+                     <!-- <img class="carosel__image" src="../Beach/20211230_100329.jpg"  alt="">                    -->
+                </li>
+                <li class="carosel__slide">
+                    <!-- <img class="carosel__image" src="../Amazon/images/372x232_4_Low._SY116_CB670263840_.jpg" alt="">
+                     -->
+                    
+                        <!-- <img class="carosel__image" src="../Beach/20211230_100340.jpg" alt=""> -->
+                  
+                </li>
+                <li class="carosel__slide">
+                    <!-- <img class="carosel__image" src="../Beach/20211230_110331.jpg" alt=""> -->
+                    <!-- <img class="carosel__image" src="../Amazon/images/41TaRNz0vkL._AC_SY200_.jpg" alt=""> -->
+                </li>
+            </ul>
+        </div>
+        <button class=" btn nextbtn">next</button>
+
+        <div class="carosel-nav-container">
+            <button class="nav-links active"></button>
+            <button class="nav-links"></button>
+            <button class="nav-links"></button>
+        </div>
+    </div>
+</div>
+
+
+<div class="banner">
+    <img src="banner.jpg" alt="">
+</div>
+
+
+<div class="card-4">
+    <h2> Masks and faceshields</h2>
+   <div class="collective-images">
+       <img src="mask.jpg" alt=""><p><a href="#">See more</a></p>
+   </div>
+ </div>
+
+ <div class="card-4">
+    <h2> Best Sellers in Toys & Games</h2>
+   <div class="collective-images">
+      
+    <div class="carosel">
+        <button class=" btn prevbtn">pre</button>
+        <div class="carosel__track-container ">
+            <ul class="carosel__track" type="none">
+                <li class="carosel__slide curent-slide">
+                     <!-- <img class="carosel__image" src="../Amazon/images/31lGv22nWKL._AC_SY200_.jpg"  alt="">                    -->
+                     <!-- <img class="carosel__image" src="../Beach/20211230_100329.jpg"  alt="">                    -->
+                </li>
+                <li class="carosel__slide">
+                    <!-- <img class="carosel__image" src="../Amazon/images/372x232_4_Low._SY116_CB670263840_.jpg" alt="">
+                     -->
+                    
+                        <!-- <img class="carosel__image" src="../Beach/20211230_100340.jpg" alt=""> -->
+                  
+                </li>
+                <li class="carosel__slide">
+                    <!-- <img class="carosel__image" src="../Beach/20211230_110331.jpg" alt=""> -->
+                    <!-- <img class="carosel__image" src="../Amazon/images/41TaRNz0vkL._AC_SY200_.jpg" alt=""> -->
+                </li>
+            </ul>
+        </div>
+        <button class=" btn nextbtn">next</button>
+
+        <div class="carosel-nav-container">
+            <button class="nav-links active"></button>
+            <button class="nav-links"></button>
+            <button class="nav-links"></button>
+        </div>
+    </div>
+</div>
+
+   </div>
+   <p>Xencui Dancing Cactus Talking Toy, Cactus Plush Toy, Wriggle & Singin…</p>
+   <p>₹829.00₹2,999.00₹2,999.00</p>
+ </div>
+
+
+ <div class="carosel">
+    <button class=" btn prevbtn">pre</button>
+    <div class="carosel__track-container ">
+        <ul class="carosel__track" type="none">
+            <li class="carosel__slide curent-slide">
+                 <!-- <img class="carosel__image" src="../Amazon/images/31lGv22nWKL._AC_SY200_.jpg"  alt="">                    -->
+                 <!-- <img class="carosel__image" src="../Beach/20211230_100329.jpg"  alt="">                    -->
+            </li>
+            <li class="carosel__slide">
+                <!-- <img class="carosel__image" src="../Amazon/images/372x232_4_Low._SY116_CB670263840_.jpg" alt="">
+                 -->
+                
+                    <!-- <img class="carosel__image" src="../Beach/20211230_100340.jpg" alt=""> -->
+              
+            </li>
+            <li class="carosel__slide">
+                <!-- <img class="carosel__image" src="../Beach/20211230_110331.jpg" alt=""> -->
+                <!-- <img class="carosel__image" src="../Amazon/images/41TaRNz0vkL._AC_SY200_.jpg" alt=""> -->
+            </li>
+        </ul>
+    </div>
+    <button class=" btn nextbtn">next</button>
+
+    <div class="carosel-nav-container">
+        <button class="nav-links active"></button>
+        <button class="nav-links"></button>
+        <button class="nav-links"></button>
+    </div>
+</div>
+</div>
+
+
+<div class="carosel">
+    <button class=" btn prevbtn">pre</button>
+    <div class="carosel__track-container ">
+        <ul class="carosel__track" type="none">
+            <li class="carosel__slide curent-slide">
+                 <!-- <img class="carosel__image" src="../Amazon/images/31lGv22nWKL._AC_SY200_.jpg"  alt="">                    -->
+                 <!-- <img class="carosel__image" src="../Beach/20211230_100329.jpg"  alt="">                    -->
+            </li>
+            <li class="carosel__slide">
+                <!-- <img class="carosel__image" src="../Amazon/images/372x232_4_Low._SY116_CB670263840_.jpg" alt="">
+                 -->
+                
+                    <!-- <img class="carosel__image" src="../Beach/20211230_100340.jpg" alt=""> -->
+              
+            </li>
+            <li class="carosel__slide">
+                <!-- <img class="carosel__image" src="../Beach/20211230_110331.jpg" alt=""> -->
+                <!-- <img class="carosel__image" src="../Amazon/images/41TaRNz0vkL._AC_SY200_.jpg" alt=""> -->
+            </li>
+        </ul>
+    </div>
+    <button class=" btn nextbtn">next</button>
+
+    <div class="carosel-nav-container">
+        <button class="nav-links active"></button>
+        <button class="nav-links"></button>
+        <button class="nav-links"></button>
+    </div>
+</div>
+</div>
+
+<div class="signin-footer">
+    <p>See personalized recommendations</p>
+    <button>Sign in</button>
+    <p>New customer? <a href="#">Start here.</a></p>
+</div>
+
+<div class="back-to-top-btn">
+    <button>Back to top</button>
+</div>
+</div>
+    </section>
+   
+
+
+<footer>
+    <div class="footer-one">
+        <div class="footer__first-col">
+     <ul>
+         <a href=""> <li>  Get to Know Us</li></a>
+         <a href=""> <li>About Us</li></a>
+         <a href=""> <li>Careers</li></a>
+         <a href=""> <li>Press Releases</li></a>
+         <a href=""> <li>Amazon Cares</li></a>
+         <a href=""> <li>Gift a Smile</li></a>
+         <a href=""> <li>Amazon Science</li></a>
+     </ul>
+       </div>
+
+       <div class="footer__first-col">
+        <ul>
+            <a href=""> <li>  Connect with Us</li></a>
+            <a href=""> <li>Facebook</li></a>
+            <a href=""> <li>Careers</li></a>
+            <a href=""> <li> Twitter</li></a>
+           
+        </ul>
+          </div>
+
+
+          <div class="footer__first-col">
+            <ul>
+               <a href="">  <li> Make Money with Us</li></a>
+                <a href=""> <li>Sell on Amazon</li></a>
+               <a href="">  <li>Sell under Amazon Accelerator</li></a>
+                <a href=""> <li> Amazon Global Selling</li></a>
+                <a href=""> <li> Become an Affiliate</li></a>
+                <a href=""> <li>Fulfilment by Amazon</li></a>
+                <a href=""> <li>Advertise Your Products</li></a>
+                <a href=""> <li>Amazon Pay on Merchants</li></a>
+            </ul>
+        </div>
+        
+        <div class="footer__first-col">
+            <ul>
+                <a href=""> <li>  Let Us Help You</li></a>
+                <a href=""> <li>COVID-19 and Amazon</li></a>
+                <a href=""> <li>Your Account</li></a>
+                <a href=""> <li> Returns Centre</li></a>
+                <a href=""> <li> 100% Purchase Protection</li></a>
+                <a href=""> <li>Amazon App Download</li></a>
+                <a href=""> <li>Amazon Assistant Download</li></a>
+                <a href=""> <li>Help</li></a>
+            </ul>
+        </div>
+       <hr>
+
+       <div class="footer-two">
+
+
+        <div class="footer__second-first-col">
+<div class="up-foot">
+    <img src="../Amazon/images/logo.png" alt="">
+    <select>
+        <option></option>
+        <!-- tool tip varum😂😊 -->
+    </select>
+</div>
+<div class="down-foot">
+      <a href="#">  <span>Australia</span></a>
+      <a href="#">  <span>Brazil</span></a>
+      <a href="#">  <span>Canada</span></a>
+      <a href="#">  <span>China</span></a>
+      <a href="#">  <span>France</span></a>
+      <a href="#">  <span>Germany</span></a>
+      <a href="#">  <span>Italy</span></a>
+      <a href="#">  <span>Japan</span></a>
+      <a href="#">  <span>Mexico</span></a>
+      <a href="#">  <span>Netherlands</span></a>
+      <a href="#">  <span>Poland</span></a>
+      <a href="#">  <span>Singapore</span></a>
+      <a href="#">  <span>Spain</span></a>
+      <a href="#">  <span>Turkey</span></a>
+      <a href="#">  <span>United Arab Emirates</span></a>
+      <a href="#">  <span>United Kingdom</span></a>
+      <a href="#">  <span>United States</span></a>
+    
+        </div>
+
+
+
+
+        </div>
+        <div class="footer__second-second-col">
+            <div class="footer-one">
+                <div class="footer__first-col">
+             <ul>
+                 <a href="#"> <li>  AbeBooks</li></a>
+                 <a href="#"> <li>Books, art</li></a>
+                 <a href="#"> <li>& collectibles</li></a>
+                 
+             </ul>
+               </div>
+        
+               <div class="footer__first-col">
+                <ul>
+                    <a href="#"> <li>  Connect with Us</li></a>
+                    <a href="#"> <li>Facebook</li></a>
+                    <a href="#"> <li>Careers</li></a>
+                    <a href="#"> <li> Twitter</li></a>
+                   
+                </ul>
+                </div>
+        
+                 
+                <div class="footer__first-col">
+                    <ul>
+                       <a href="#">  <li>Amazon Web Services</li></a>
+                        <a href="#"> <li>Scalable Cloud</li></a>
+                       <a href="#">  <li>Computing Services</li></a>
+                        
+                    </ul>
+                </div>
+                
+                <div class="footer__first-col">
+                    <ul>
+                        <a href="#"> <li>  Audible</li></a>
+                        <a href="#"> <li>Download</li></a>
+                        <a href="#"> <li>Audio Books</li></a>
+                        
+                    </ul>
+                </div>
+               
+                
+               
+                <div class="footer__first-col">
+                    <ul>
+                        <a href="#"> <li> DPReview </li></a>
+                        <a href="#"> <li>Digital</li></a>
+                        <a href="#"> <li> Photography</li></a>
+                        
+                    </ul>
+                </div>
+               
+                 
+                <div class="footer__first-col">
+                    <ul>
+                        <a href="#"> <li>IMDb </li></a>
+                        <a href="#"> <li>Movies, TV</li></a>
+                        <a href="#"> <li>& Celebrities</li></a>
+                        
+                    </ul>
+                </div>
+                
+                
+                
+                <div class="footer__first-col">
+                    <ul>
+                        <a href="#"> <li>Shopbop </li></a>
+                        <a href="#"> <li>Designer</li></a>
+                        <a href="#"> <li>Fashion Brands</li></a>
+                        
+                    </ul>
+                </div>
+                
+               
+                
+
+                <div class="footer__first-col">
+                    <ul>
+                        <a href="#"> <li> Amazon Business</li></a>
+                        <a href="#"> <li> Everything For</li></a>
+                        <a href="#"> <li>Your Business</li></a>
+                        
+                    </ul>
+                </div>
+               
+                
+                
+                <div class="footer__first-col">
+                    <ul>
+                        <a href="#"> <li> Prime Now </li></a>
+                        <a href="#"> <li>2-Hour Delivery</li></a>
+                        <a href="#"> <li>on Everyday Items</li></a>
+                        
+                    </ul>
+                </div>
+                
+                
+                
+                <div class="footer__first-col">
+                    <ul>
+                        <a href="#"> <li> Amazon Prime Music</li></a>
+                        <a href="#"> <li>75 million songs, ad-free</li></a>
+                        <a href="#"> <li>Over 10 million podcast episodes</li></a>
+                        
+                    </ul>
+                </div>
+
+                
+            </div>
+        </div>
+
+          
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+    <a class="copwrite">
+       <a href="#"> <span>Conditions of Use & Sale</span></a>
+       <a href="#"> <span>Privacy</span></a>
+       <a href="#"> <span>NoticeInterest-Based Ads</span></a>
+       <a href="#"> <span>© 1996-2022, Inc. or its affiliates</span></a>
+    </div>
+</footer>
